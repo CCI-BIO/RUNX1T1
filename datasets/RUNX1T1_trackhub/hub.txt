@@ -6,8 +6,212 @@ email njayatilleke@ccia.org.au
 
 genome hg38
 
-track CONT_H3K27ac
+track CONT_H3K27ac_rep1
+visibility pack
+shortLabel CONT H3K27ac rep1
+longLabel CONT H3K27ac replicate 1
 type bigBed
-shortLabel CONT H3K27ac consensus
-longLabel CONT H3K27ac consensus
 bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K27ac_rep1_q30_peaks_macs.bb
+
+track CONT_H3K27ac_rep2
+visibility pack
+shortLabel CONT H3K27ac rep2
+longLabel CONT H3K27ac replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K27ac_rep2_q30_peaks_macs.bb
+
+track CONT_H3K27ac_rep3
+visibility pack
+shortLabel CONT H3K27ac rep3
+longLabel CONT H3K27ac replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K27ac_rep3_q30_peaks_macs.bb
+
+track CONT_H3K27me3_rep1
+visibility pack
+shortLabel CONT H3K27me3 rep1
+longLabel CONT H3K27me3 replicate 1
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K27me3_rep1_q30_peaks_macs.bb
+
+track CONT_H3K27me3_rep2
+visibility pack
+shortLabel CONT H3K27me3 rep2
+longLabel CONT H3K27me3 replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K27me3_rep2_q30_peaks_macs.bb
+
+track CONT_H3K27me3_rep3
+visibility pack
+shortLabel CONT H3K27me3 rep3
+longLabel CONT H3K27me3 replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K27me3_rep3_q30_peaks_macs.bb
+
+track CONT_H3K4me1_rep1
+visibility pack
+shortLabel CONT H3K4me1 rep1
+longLabel CONT H3K4me1 replicate 1
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K4me1_rep1_q30_peaks_macs.bb
+
+track CONT_H3K4me1_rep2
+visibility pack
+shortLabel CONT H3K4me1 rep2
+longLabel CONT H3K4me1 replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K4me1_rep2_q30_peaks_macs.bb
+
+track CONT_H3K4me1_rep3
+visibility pack
+shortLabel CONT H3K4me1 rep3
+longLabel CONT H3K4me1 replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K4me1_rep3_q30_peaks_macs.bb
+
+track CONT_H3K4me2_rep1
+visibility pack
+shortLabel CONT H3K4me2 rep1
+longLabel CONT H3K4me2 replicate 1
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K4me2_rep1_q30_peaks_macs.bb
+
+track CONT_H3K4me2_rep2
+visibility pack
+shortLabel CONT H3K4me2 rep2
+longLabel CONT H3K4me2 replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K4me2_rep2_q30_peaks_macs.bb
+
+track CONT_H3K4me2_rep3
+visibility pack
+shortLabel CONT H3K4me2 rep3
+longLabel CONT H3K4me2 replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K4me2_rep3_q30_peaks_macs.bb
+
+track CONT_H3K4me3_rep1
+visibility pack
+shortLabel CONT H3K4me3 rep1
+longLabel CONT H3K4me3 replicate 1
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K4me3_rep1_q30_peaks_macs.bb
+
+track CONT_H3K4me3_rep2
+visibility pack
+shortLabel CONT H3K4me3 rep2
+longLabel CONT H3K4me3 replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K4me3_rep2_q30_peaks_macs.bb
+
+track CONT_H3K4me3_rep3
+visibility pack
+shortLabel CONT H3K4me3 rep3
+longLabel CONT H3K4me3 replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/CONT_H3K4me3_rep3_q30_peaks_macs.bb
+
+track POS_H3K27ac_rep1
+visibility pack
+shortLabel POS H3K27ac rep1
+longLabel POS H3K27ac replicate 1
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K27ac_rep1_q30_peaks_macs.bb
+
+track POS_H3K27ac_rep2
+visibility pack
+shortLabel POS H3K27ac rep2
+longLabel POS H3K27ac replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K27ac_rep2_q30_peaks_macs.bb
+
+track POS_H3K27ac_rep3
+visibility pack
+shortLabel POS H3K27ac rep3
+longLabel POS H3K27ac replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K27ac_rep3_q30_peaks_macs.bb
+
+track POS_H3K27me3_rep1
+visibility pack
+shortLabel POS H3K27me3 rep1
+longLabel POS H3K27me3 replicate 1
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K27me3_rep1_q30_peaks_macs.bb
+
+track POS_H3K27me3_rep2
+visibility pack
+shortLabel POS H3K27me3 rep2
+longLabel POS H3K27me3 replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K27me3_rep2_q30_peaks_macs.bb
+
+track POS_H3K27me3_rep3
+visibility pack
+shortLabel POS H3K27me3 rep3
+longLabel POS H3K27me3 replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K27me3_rep3_q30_peaks_macs.bb
+
+track POS_H3K4me1_rep1
+visibility pack
+shortLabel POS H3K4me1 rep1
+longLabel POS H3K4me1 replicate 1
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K4me1_rep1_q30_peaks_macs.bb
+
+track POS_H3K4me1_rep2
+visibility pack
+shortLabel POS H3K4me1 rep2
+longLabel POS H3K4me1 replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K4me1_rep2_q30_peaks_macs.bb
+
+track POS_H3K4me1_rep3
+visibility pack
+shortLabel POS H3K4me1 rep3
+longLabel POS H3K4me1 replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K4me1_rep3_q30_peaks_macs.bb
+
+track POS_H3K4me2_rep1
+visibility pack
+shortLabel POS H3K4me2 rep1
+longLabel POS H3K4me2 replicate 1
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K4me2_rep1_q30_peaks_macs.bb
+
+track POS_H3K4me2_rep2
+visibility pack
+shortLabel POS H3K4me2 rep2
+longLabel POS H3K4me2 replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K4me2_rep2_q30_peaks_macs.bb
+
+track POS_H3K4me2_rep3
+visibility pack
+shortLabel POS H3K4me2 rep3
+longLabel POS H3K4me2 replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K4me2_rep3_q30_peaks_macs.bb
+
+track POS_H3K4me3_rep1
+visibility pack
+shortLabel POS H3K4me3 rep1
+longLabel POS H3K4me3 replicate 1
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K4me3_rep1_q30_peaks_macs.bb
+
+track POS_H3K4me3_rep2
+visibility pack
+shortLabel POS H3K4me3 rep2
+longLabel POS H3K4me3 replicate 2
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K4me3_rep2_q30_peaks_macs.bb
+
+track POS_H3K4me3_rep3
+visibility pack
+shortLabel POS H3K4me3 rep3
+longLabel POS H3K4me3 replicate 3
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/RUNX1T1_trackhub/hg38/POS_H3K4me3_rep3_q30_peaks_macs.bb
