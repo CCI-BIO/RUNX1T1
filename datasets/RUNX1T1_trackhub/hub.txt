@@ -6,7 +6,7 @@ email njayatilleke@ccia.org.au
 
 genome hg38
 
-track CONT H3K27ac
+track CONT_H3K27ac
 type bigBed
 shortLabel CONT H3K27ac consensus
 longLabel CONT H3K27ac consensus
