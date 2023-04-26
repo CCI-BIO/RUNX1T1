@@ -1,0 +1,13 @@
+hub RUNX1T1 ChIPseq
+shortLabel RUNX1T1 ChIPseq
+longLabel RUNX1T1 ChIPseq replicate tracks
+useOneFile on
+email njayatilleke@ccia.org.au
+
+genome hg38
+
+track CONT H3K27ac
+shortLabel CONT H3K27ac consensus
+longLabel CONT H3K27ac consensus
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/CCI-BIO/RUNX1T1/main/datasets/ChIPseq_BEDFiles/CONT_H3K27ac_final_overlapped_peak_table_sorted_format.bed
